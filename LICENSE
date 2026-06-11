@@ -1,7 +1,276 @@
-Copyright (c) 2026 Jhow Zy
+LICENÇA COMERCIAL COM COBRANÇA POR USO - DELTA ECOSYSTEM
+Enterprise Subscription License Agreement
 
-Todos os direitos reservados.
+Copyright © 2026 Jhow Zy. Todos os direitos reservados.
 
-Este software e seu código-fonte são propriedade exclusiva do autor.
-Nenhuma parte deste projeto pode ser copiada, modificada, distribuída,
-vendida ou utilizada sem autorização explícita do proprietário.
+MODELO DE LICENCIAMENTO: PAY-PER-USE COM COBRANÇA POR USUÁRIOS ATIVOS
+
+Este software e todas as suas funcionalidades são fornecidos sob um modelo de licenciamento comercial com cobrança periódica por uso e número de usuários ativos.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+1. MODELOS DE LICENÇA DISPONÍVEIS
+
+1.1 MODELO DE ASSINATURA (RECOMENDADO)
+   - Pagamento mensal ou anual recorrente
+   - Válido apenas durante o período de assinatura ativa
+   - Renovação automática a menos que cancelada explicitamente
+   - Inclui todas as atualizações e patches durante o período
+
+1.2 MODELO PERPÉTUO COM COBRANÇA POR USO
+   - Licença permanente com taxas de uso variáveis
+   - Cobrança baseada em: Número de usuários ativos + volume de transações/requisições
+   - Faturamento mensal de acordo com consumo real
+
+═══════════════════════════════════════════════════════════════════════════════
+
+2. DEFINIÇÕES DE USO E COBRANÇA
+
+2.1 USUÁRIOS ATIVOS
+   - Qualquer pessoa que acesse ou utilize o software em um período de 30 dias
+   - Cada usuário ativo conta para fins de licenciamento
+   - Limite mínimo: 1 usuário ativo (cobrança mínima mensal obrigatória)
+
+2.2 MÉTRICAS DE USO MEDIDAS
+   - Número de requisições/chamadas de API por mês
+   - Volume de dados processados (GB/TB)
+   - Número de transações executadas
+   - Computação (CPU/horas de processamento)
+   - Armazenamento (GB/TB mês)
+
+2.3 FATURAMENTO
+   - Cobrança mensal recorrente
+   - Fatura gerada automaticamente no final de cada período
+   - Pagamento via cartão de crédito, transferência bancária ou boleto
+   - Multa por atraso: 3% ao mês + juros legais
+
+═══════════════════════════════════════════════════════════════════════════════
+
+3. ACESSO E INSTALAÇÃO
+
+3.1 VOCÊ PODE:
+   ✓ Instalar o software nos ambientes autorizados
+   ✓ Usar o software para fins comerciais conforme a licença
+   ✓ Integrar em seus produtos/serviços
+   ✓ Receber atualizações e suporte durante vigência da licença
+
+3.2 VOCÊ NÃO PODE:
+   ✗ Usar sem licença válida ou fora dos limites contratados
+   ✗ Compartilhar credenciais de licença
+   ✗ Fazer engenharia reversa, descompilar ou extrair código-fonte
+   ✗ Revender, sublienciar ou distribuir
+   ✗ Usar em ambiente de produção sem pagamento correspondente
+   ✗ Violar o limite de usuários ativos contratados
+
+═══════════════════════════════════════════════════════════════════════════════
+
+4. MONITORAMENTO E AUDITORIA
+
+4.1 RASTREAMENTO DE USO
+   - O software registra automaticamente todas as métricas de uso
+   - Dados de uso transmitidos ao servidor de licenciamento em tempo real
+   - Relatório detalhado disponível no painel do cliente
+   - Sistema de telemetria integrado para medição precisa
+
+4.2 AUDITORIA
+   - O proprietário reserva o direito de auditar uso a qualquer tempo
+   - Testes de conformidade podem ser realizados sem aviso prévio
+   - Desconexão automática se exceder limites sem pagamento
+   - Logs detalhados mantidos por mínimo 2 anos
+
+4.3 PROTEÇÃO ANTI-FRAUDE
+   - Detecção de uso anômalo e compartilhamento de credenciais
+   - Bloqueio automático de contas suspeitas
+   - Notificação imediata ao cliente
+   - Sistema de rate limiting para prevenir abuso
+
+═══════════════════════════════════════════════════════════════════════════════
+
+5. TABELA DE PREÇOS REVISADA (ENTERPRISE PREMIUM)
+
+5.1 ASSINATURA MENSAL - TIER BASED:
+   ┌─────────────────────────────────────────────────────────────┐
+   │ TIER STARTUP:                                               │
+   │ • 1-5 usuários ativos                                        │
+   │ • Até 100K requisições/mês                                   │
+   │ • Até 50GB armazenamento                                     │
+   │ Preço: R$ 1.999/mês                                          │
+   │                                                              │
+   │ TIER PROFESSIONAL:                                          │
+   │ • 6-25 usuários ativos                                       │
+   │ • Até 1M requisições/mês                                     │
+   │ • Até 500GB armazenamento                                    │
+   │ Preço: R$ 5.999/mês                                          │
+   │                                                              │
+   │ TIER BUSINESS:                                              │
+   │ • 26-100 usuários ativos                                     │
+   │ • Até 5M requisições/mês                                     │
+   │ • Até 2TB armazenamento                                      │
+   │ Preço: R$ 14.999/mês                                         │
+   │                                                              │
+   │ TIER ENTERPRISE:                                            │
+   │ • 100+ usuários ativos                                       │
+   │ • Requisições ilimitadas                                     │
+   │ • Armazenamento ilimitado                                    │
+   │ Preço: Sob consulta (mínimo R$ 29.999/mês)                  │
+   └─────────────────────────────────────────────────────────────┘
+
+5.2 COBRANÇA POR USO ADICIONAL (PAY-AS-YOU-GROW):
+   
+   Requisições de API:
+   • Até 100K/mês: R$ 0,015 por 1.000 requisições
+   • 100K - 1M/mês: R$ 0,025 por 1.000 requisições
+   • 1M - 10M/mês: R$ 0,045 por 1.000 requisições
+   • Acima de 10M/mês: R$ 0,075 por 1.000 requisições
+   
+   Armazenamento de Dados:
+   • R$ 0,50 por GB/mês
+   • R$ 450 por TB/mês (desconto aplicado automaticamente)
+   
+   Processamento Computacional:
+   • R$ 2,50 por hora de CPU
+   • R$ 15,00 por hora de GPU (se aplicável)
+   • R$ 1,80 por GB de RAM utilizado/hora
+   
+   Transferência de Dados:
+   • Saída de dados: R$ 0,35 por GB
+   • Entrada de dados: R$ 0,05 por GB
+   • Replicação entre regiões: R$ 0,25 por GB
+   
+   Transações Especializadas:
+   • Transações Blockchain/Criptografia: R$ 0,10 por transação
+   • Requisições de IA/ML: R$ 0,50 - R$ 5,00 (conforme complexidade)
+   • Análise de dados em tempo real: R$ 1,00 por consulta
+
+5.3 ASSINATURA ANUAL - DESCONTOS ESCALONADOS:
+   • 10% de desconto (pague 10.8 meses pelo preço de 12)
+   • 15% de desconto (pague 10.2 meses pelo preço de 12)
+   • Planos customizados: até 20% de desconto
+
+5.4 TAXA DE OVERAGE (USO EXCEDENTE):
+   - Excesso acima do plano: 1.5x o valor da tarifa normal
+   - Cobrança automática no próximo ciclo de faturamento
+   - Notificação alertando sobre overage ao atingir 80% do limite
+
+5.5 TAXA DE SETUP INICIAL:
+   - Setup & onboarding: R$ 999 (único pagamento)
+   - Integração customizada: R$ 2.999
+   - Migration de sistema legado: R$ 5.000+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+6. POLÍTICA DE CANCELAMENTO E SUSPENSÃO
+
+6.1 SUSPENSÃO AUTOMÁTICA:
+   - Atraso de pagamento > 3 dias: limitação de funcionalidades não-críticas
+   - Atraso de pagamento > 10 dias: redução de 50% da taxa de requisições
+   - Atraso de pagamento > 30 dias: acesso completamente bloqueado
+   - Excesso de uso não pago: suspensão imediata de serviço
+
+6.2 RESCISÃO:
+   - Cliente pode cancelar com 60 dias de aviso prévio
+   - Proprietário pode rescindir imediatamente por violação de termos
+   - Sem reembolso de períodos já faturados
+   - Taxa de cancelamento antecipado: 10% do valor contratado
+
+6.3 MIGRAÇÃO DE DADOS:
+   - Dentro de 60 dias após cancelamento: exportação de dados disponível
+   - Após 60 dias: dados serão permanentemente deletados
+   - Custo de exportação acelerada: R$ 500
+
+═══════════════════════════════════════════════════════════════════════════════
+
+7. INFRAÇÕES E PENALIDADES
+
+7.1 VIOLAÇÃO DE TERMOS:
+   - Uso sem licença: multa de R$ 2.000 por dia + ação judicial
+   - Compartilhamento de credenciais: bloqueio imediato + multa de R$ 5.000
+   - Engenharia reversa: ação legal por danos + indenização mínima de R$ 50.000
+   - Uso não autorizado em produção: cobrança retroativa 3x + multa de 150%
+   - Revenda/sublicenciamento: processo judicial + indenização de R$ 100.000+
+
+7.2 AÇÕES LEGAIS:
+   - O proprietário reserva direitos legais por qualquer violação
+   - Toda ação judicial será sob jurisdição brasileira
+   - Cliente é responsável por custas processuais + honorários advocatícios
+   - Possível ação por danos emergentes e lucros cessantes
+
+═══════════════════════════════════════════════════════════════════════════════
+
+8. LIMITAÇÕES DE RESPONSABILIDADE
+
+8.1 ISENÇÃO:
+   - Fornecido "COMO ESTÁ" sem garantias explícitas ou implícitas
+   - Não há garantia de disponibilidade 100% ou zero falhas
+   - SLA: 99.9% de uptime para Tiers Professional+ (sujeito a condições)
+   - SLA: 95% de uptime para Tier Startup
+
+8.2 INDENIZAÇÃO:
+   - O proprietário NÃO é responsável por danos indiretos ou consequenciais
+   - Responsabilidade máxima limitada ao valor pago nos últimos 6 meses
+   - Em caso de breach, cliente notificado em até 24 horas
+
+═══════════════════════════════════════════════════════════════════════════════
+
+9. SUPORTE TÉCNICO
+
+9.1 INCLUÍDO NA LICENÇA:
+   - Email support com resposta em até 48 horas (Startup)
+   - Email + Chat com resposta em até 24 horas (Professional)
+   - Email + Chat + Phone com resposta em até 4 horas (Business)
+   - Acesso a base de conhecimento completa
+   - Atualizações de segurança críticas imediatas
+
+9.2 SUPORTE PREMIUM (OPCIONAL):
+   - Priority support 24/7: +R$ 500/mês
+   - Dedicated account manager: +R$ 1.500/mês
+   - Phone support dedicado + SLA 1 hora: +R$ 2.000/mês
+   - Consultoria estratégica trimestral: +R$ 3.000/mês
+
+═══════════════════════════════════════════════════════════════════════════════
+
+10. CONFORMIDADE E REQUISITOS
+
+10.1 O CLIENTE CONCORDA EM:
+   - Pagar as taxas conforme faturado e dentro do prazo estipulado
+   - Manter credenciais de licença seguras e confidenciais
+   - Informar ao proprietário qualquer violação ou anomalia de segurança
+   - Aceitar termos de serviço atualizados com 30 dias de aviso
+   - Permitir acesso remoto para auditoria e verificação de compliance
+
+10.2 PROPRIEDADE INTELECTUAL:
+   - Todo código, patentes e propriedade intelectual pertencem ao proprietário
+   - Nenhuma cessão de direitos é fornecida
+   - Proibido registrar domínios similares ou usar marca sem autorização
+
+═══════════════════════════════════════════════════════════════════════════════
+
+11. VIGÊNCIA E RENOVAÇÃO
+
+- Licença válida por período contratado (mensal, anual, etc.)
+- Renovação automática a menos que cancelada com 60 dias de antecedência
+- Termos podem ser atualizados com 30 dias de notificação prévia
+- Aumentos de preço aplicáveis na próxima renovação anual
+
+═══════════════════════════════════════════════════════════════════════════════
+
+12. POLÍTICA DE FATURAMENTO
+
+- Faturamento automático no primeiro dia de cada mês
+- Múltiplos métodos de pagamento aceitos
+- Emissão automática de nota fiscal
+- Relatórios de uso disponíveis em tempo real no dashboard
+- Possibilidade de quotas e alertas orçamentários
+
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTATO PARA ADQUIRIR LICENÇA COMERCIAL:
+
+Email: jonasnicolao79@gmail.com
+Consultas sobre preços: jonasnicolao79@gmail.com
+Suporte técnico: jonasnicolao79@gmail.com
+
+ACEITAR ESTA LICENÇA SIGNIFICA QUE VOCÊ CONCORDA COMPLETAMENTE COM TODOS OS TERMOS ACIMA.
+
+Propriedade Comercial Protegida © 2026
+Delta Ecosystem Enterprise License
