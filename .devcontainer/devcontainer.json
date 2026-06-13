@@ -1,3 +1,4 @@
 {
-  "name": "Meu Ambiente Delta Node"
+  "name": "Meu Ambiente Delta Node",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
