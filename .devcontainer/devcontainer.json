@@ -1,4 +1,15 @@
 {
   "name": "Delta Node Dev",
-  "image": "mcr.microsoft.com/devcontainers/universal:latest"
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot"
+      ]
+    }
+  },
+  "postCreateCommand": "bash .devcontainer/postCreate.sh"
 }
